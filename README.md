@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kxkhufppwg6wr1ly?svg=true)](https://ci.appveyor.com/project/AspireVX15/allurepatterns)
